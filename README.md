@@ -22,7 +22,7 @@ path_to_natasha - путь к папке с библиотекой natasha (дл
 
 **Пример запуска:**
 
-python dialog_parsing.py C:\Users\user\Desktop\Bewise C:\Users\user\Desktop\Bewise F:\\Data_Science\\Anaconda\\Lib\\site-packages\\natasha
+python dialogs_parser.py C:\Users\user\Desktop\Bewise C:\Users\user\Desktop\Bewise F:\\Data_Science\\Anaconda\\Lib\\site-packages\\natasha
 
 **Результат работы:**
 
